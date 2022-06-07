@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "myers-591f3",
     "public": "public",
     "ignore": [
       "firebase.json",
