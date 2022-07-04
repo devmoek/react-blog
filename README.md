@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Blog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I created this project to train my development skills.
 
 ## Available Scripts
 
